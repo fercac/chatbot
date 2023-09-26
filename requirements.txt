@@ -1,0 +1,7 @@
+PyPDF2
+pypdf
+openai
+langchain
+llama-index
+streamlit
+streamlit_chat
